@@ -85,7 +85,7 @@ html, body {
     border-radius: 50%;
 }
 
-.main-footer {
+#footer {
     position:absolute;
     bottom:0;
     background-color: #56CCF2;
