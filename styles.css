@@ -89,6 +89,7 @@ html, body {
     position:absolute;
     bottom:0;
     width:100%;
+    width:200%;
     background-color: #56CCF2;
     color: white;
     padding: .25em 0;
