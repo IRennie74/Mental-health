@@ -90,7 +90,12 @@ html, body {
     color: white;
     padding: .25em 0;
 }
-
+wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -142px;
+}
 .main-footer-container {
     display: flex;
     align-items: center;
