@@ -100,7 +100,9 @@ wrapper {
     display: flex;
     align-items: center;
 }
-
+.footer, .push {
+    height: 142px;
+}
 .main-footer-container ul {
     flex-grow: 1;
     text-align: end;
