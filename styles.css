@@ -155,6 +155,7 @@ input[name="r"]{
   width: 500%;
   height: 100%;
   display: flex;
+  position:absolute;
 }
 
 .slide{
