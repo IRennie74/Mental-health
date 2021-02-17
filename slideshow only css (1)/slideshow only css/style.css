@@ -80,3 +80,6 @@ input[name="r"]{
 #r8:checked ~ .s1{
   margin-left: -87.5%;
 }
+.label{
+  color: red;
+}
